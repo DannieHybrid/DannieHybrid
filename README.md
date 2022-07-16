@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DannieHybrid
-- 👀 I’m interested in 
-- 🌱 I’m currently learning how to write better codes
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in doing something out of the ordinary.
+- 🌱 I’m currently learning how to write better codes.
+- 💞️ I’m looking to collaborate on mind blowing ideas.
 - 📫 How to reach me danniehybrid@gmail.com
 
 <!---
